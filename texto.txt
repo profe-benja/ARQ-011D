@@ -2,5 +2,7 @@ HOLA a todos
 
 En este curso veremos git
 En este curso veremos git
-En este curso veremos git
+
+Se añade nuevo codigo
+
 En este curso veremos git
